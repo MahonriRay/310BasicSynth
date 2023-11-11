@@ -18,7 +18,6 @@ but it shows how programming audio can be accomplish whatever the user would wan
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
 I went through many different languages before settling on python. Every language is capable of implementing audio, but Python had a couple of libraries that already did most of the heavy work that made creating a synthesizer 
 more simple than other languages.
 
