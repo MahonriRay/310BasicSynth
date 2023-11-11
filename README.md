@@ -27,8 +27,6 @@ The library I used for this project is the Pygame library as it already has a so
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Jammin' Coder](https://www.youtube.com/watch?v=egW_J4et4HA)
 - [G223 Productions](https://www.youtube.com/watch?v=fp1Snqq9ovw&t=1s)
 
